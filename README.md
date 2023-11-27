@@ -38,10 +38,16 @@ Favourting photos also would be a fantastic feature.
 # Usage
 Explore Photos: Use the search bar to find photos by tags or view a user's gallery by tapping on their ID.
 Onboarding Screens: Swipe through the onboarding screens to learn about the app.
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 13](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/067448f1-da8e-4873-926f-42f2f97d6f78)
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 19](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/971bf217-a2d4-46a7-b04c-9b13ec796aaa)
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 24](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/bad80bb7-e3c9-487f-b9da-7b7f62a237bc)
 
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 31](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/82e399eb-0261-4615-a0b4-37dd78addf3a)
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 38](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/46cd33a9-504d-46cb-8074-f4707aa10e73)
-![Simulator Screenshot - iPhone 15 - 2023-11-27 at 11 55 46](https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/a3895daa-4918-448f-9893-20c1d3dd6088)
+# Screenshots
+<p float="left">
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/067448f1-da8e-4873-926f-42f2f97d6f78" width="300" />
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/971bf217-a2d4-46a7-b04c-9b13ec796aaa" width="300" /> 
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/bad80bb7-e3c9-487f-b9da-7b7f62a237bc" width="300" />
+</p>
+<p float="left">
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/82e399eb-0261-4615-a0b4-37dd78addf3a" width="300" />
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/46cd33a9-504d-46cb-8074-f4707aa10e73" width="300" />
+  <img src="https://github.com/garrincha33/YBSFlickrMobileChallenge/assets/1871219/a3895daa-4918-448f-9893-20c1d3dd6088" width="300" />
+</p>
+
